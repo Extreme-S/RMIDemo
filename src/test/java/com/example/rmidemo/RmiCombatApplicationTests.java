@@ -1,4 +1,4 @@
-package com.example.rmi_combat;
+package com.example.rmidemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

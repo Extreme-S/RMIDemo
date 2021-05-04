@@ -1,4 +1,4 @@
-package com.example.rmi_combat;
+package com.example.rmidemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

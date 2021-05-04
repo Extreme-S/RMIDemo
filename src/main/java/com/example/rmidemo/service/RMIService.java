@@ -1,12 +1,14 @@
-package com.example.rmi_combat.service;
+package com.example.rmidemo.service;
 
-import com.example.rmi_combat.domain.Student;
+import com.example.rmidemo.domain.Student;
 
 import java.rmi.Remote;
 import java.rmi.RemoteException;
 
-public interface StuService extends Remote {
+public interface RMIService extends Remote {
     //必须抛出异常
+
+    //远程调用测试
     String run() throws RemoteException;
 
     //登录

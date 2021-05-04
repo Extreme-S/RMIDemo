@@ -1,4 +1,4 @@
-package com.example.rmi_combat.config;
+package com.example.rmidemo.config;
 
 public class RMIConfig {
     public static final int REGISTRY_PORT = 9999;

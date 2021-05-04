@@ -1,4 +1,4 @@
-package com.example.rmi_combat.controller;
+package com.example.rmidemo.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
